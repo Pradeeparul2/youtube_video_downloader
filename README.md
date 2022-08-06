@@ -2,14 +2,17 @@
 
 A simple python youtube video downloader. you can download one or more videos at time.
 
-### Requirement:
-    $ python -m pip install pytube
     
-### How to Use
-1. Pull code
+## How to Use:
+1. Clone code
+
+        $ git clone https://github.com/Pradeeparul2/youtube_video_downloader.git
 2. Install requirement
+
+        $ python -m pip install pytube
 3. Add video urls on urls.txt file.(each line has only one url)
 4. Run ydownloader.py
 
-#### Comment to run
-    $ python ydownloader.py urls.txt
+        $ python ydownloader.py urls.txt
+
+    
